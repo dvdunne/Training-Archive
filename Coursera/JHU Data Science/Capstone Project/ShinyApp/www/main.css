@@ -1,0 +1,14 @@
+@import "bootstrap3.min.css"
+
+.error {
+	color: DarkRed;
+	font-style: italic;"
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.well {
+	padding: 0 19px 19px 19px;   /* make the headers in the side bar and main panel line up by overwriting built in style */
+}

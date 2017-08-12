@@ -1,0 +1,32 @@
+.reveal section p {
+  font-family: 'Open Sans','Helvetica', 'Crimson Text', 'Garamond',  'Palatino', sans-serif;
+  text-align: left;
+  font-size: 18px;
+  line-height: 1.2em;
+  color: #444;
+}
+
+.reveal li {
+  font-family: 'Open Sans','Helvetica', 'Crimson Text', 'Garamond',  'Palatino', sans-serif;
+  text-align: left;
+  font-size: 18px;
+  line-height: 1.2em;
+  color: #444;
+}
+
+.reveal h3, {
+  font-family: 'Open Sans','Helvetica', 'Crimson Text', 'Garamond',  'Palatino', sans-serif;
+  text-align: left;
+  font-size: 22px;
+  line-height: 1.5em;
+  color: #444;
+}
+
+.reveal h3, {
+  font-family: 'Open Sans','Helvetica', 'Crimson Text', 'Garamond',  'Palatino', sans-serif;
+  text-align: left;
+  font-size: 20px;
+  line-height: 1.4em;
+  color: #444;
+}
+
