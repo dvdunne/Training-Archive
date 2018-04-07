@@ -1,0 +1,8 @@
+name: ShinyAppTst
+account: dvd940
+server: shinyapps.io
+bundleId: 332511
+url: https://dvd940.shinyapps.io/ShinyAppTst
+when: 1450241868.92428
+asMultiple: FALSE
+asStatic: FALSE
